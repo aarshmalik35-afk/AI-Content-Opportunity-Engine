@@ -12,7 +12,7 @@ The tool takes SEO data as input and turns it into a prioritized opportunity rep
 
 A small Streamlit app that helps find content opportunities from SEO data.
 
-**[Live Demo →](https://seo-opportunity-engine.streamlit.app)**
+**[Live Demo →](https://seo-ai-content-engine.streamlit.app/)**
 
 The workflow is:
 
